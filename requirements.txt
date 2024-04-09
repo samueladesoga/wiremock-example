@@ -1,0 +1,7 @@
+pytest==7.1.2
+requests==2.31.0
+lxml==4.9.1
+pytest==7.1.2
+testcontainers==4.3.2
+wiremock==2.6.1
+requests==

@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "first": "Sam",
+        "last": "Browmn",
+        "interesting_data": {
+            "field1": "data1",
+            "field2": "data2"
+        }
+    },
+    {
+        "id": 2,
+        "first": "Bryan",
+        "last": "Mayan",
+        "interesting_data": {
+            "field1": "data1",
+            "field2": "data2"
+        }
+    }
+]
